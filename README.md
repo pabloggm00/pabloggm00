@@ -44,6 +44,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pabloggm00/pabloggm00/output/snake.svg" alt="Snake animation" />
 
 ###
