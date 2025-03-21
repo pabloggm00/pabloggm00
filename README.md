@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Pablo, tengo 24 años y soy programador. Actualmente estoy trabajando en un proyecto personal de un videojuego con un equipo donde no puedo contar ni enseñar nada. La programación es mi pasión, me encanta crear cosas nuevas y trabajar en proyectos que despierten mi curiosidad.<br><br>Lo que más me emociona de programar es la sensación de estar construyendo algo desde cero, ver cómo cada línea de código cobra vida y se convierte en una solución real. Soy bastante rápido aprendiendo y me adapto fácilmente a diferentes tecnologías y desafíos.<br><br>Siempre me ha gustado ser proactivo y encontrar soluciones a los problemas, creo que es parte de mi naturaleza. Disfruto del trabajo en equipo y creo que un buen ambiente de trabajo es clave para la productividad y la creatividad.<br><br>Me encanta estar al tanto de las novedades en programación, siempre estoy investigando y aprendiendo cosas nuevas. Creo que es importante mantenerse actualizado en este campo en constante evolución.<br><br>En pocas palabras, soy un apasionado de la programación con una mentalidad orientada a la acción y al trabajo en equipo. Si están buscando a alguien que sea proactivo, se implique y promueva un ambiente de trabajo positivo y productivo, ¡creo que podríamos trabajar muy bien juntos!<br><br>Gracias por visitar mi perfil. <br>¡No dudes en contactarme si tienes alguna duda!</p>
+<p align="left">¡Hola! Soy Pablo, tengo 24 años y soy programador. Actualmente estoy trabajando en un proyecto personal de un videojuego con un equipo donde no puedo contar ni enseñar nada. La programación es mi pasión, me encanta crear cosas nuevas y trabajar en proyectos que despierten mi curiosidad.<br><br>Lo que más me emociona de programar es la sensación de estar construyendo algo desde cero, ver cómo cada línea de código cobra vida y se convierte en una solución real. Soy bastante rápido aprendiendo y me adapto fácilmente a diferentes tecnologías y desafíos.<br><br>Siempre me ha gustado ser proactivo y encontrar soluciones a los problemas, creo que es parte de mi naturaleza. Disfruto del trabajo en equipo y creo que un buen ambiente de trabajo es clave para la productividad y la creatividad.<br><br>Me encanta estar al tanto de las novedades en programación, siempre estoy investigando y aprendiendo cosas nuevas.<br><br>Actualmente estoy cursando el Máster De Realidad Virtual, el cual finalizo en Mayo de 2025. En dicho curso se está realizando un videojuego con tiempo de desarollo de 3 meses (finalizando las clases).<br><br>En pocas palabras, soy un apasionado de la programación con una mentalidad orientada a la acción y al trabajo en equipo. Si están buscando a alguien que sea proactivo, se implique y promueva un ambiente de trabajo positivo y productivo, ¡creo que podríamos trabajar muy bien juntos!<br><br>Gracias por visitar mi perfil. <br>¡No dudes en contactarme si tienes alguna duda!</p>
 
 ###
 
@@ -36,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
