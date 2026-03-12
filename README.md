@@ -5,7 +5,7 @@
 ### 📱 Mi Proyecto Actual: BiDex
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.pabnauts.bidex">
+  <a href="https://play.google.com/store/apps/details?id=com.pabnauts.bidex" target="_blank">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70">
   </a>
   <p><i>App desarrollada en <b>Flutter</b> para la gestión y consulta de datos. ¡Échale un vistazo en Google Play!</i></p>
