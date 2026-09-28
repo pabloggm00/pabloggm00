@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Sobre mí
 
-¡Hola! Tengo 25 años y soy un apasionado de la programación con una mentalidad orientada a la acción. Soy un desarrollador web con especial interés en el **frontend**, aunque también puedo trabajar como **fullstack o backend** si el proyecto lo requiere.
+¡Hola! Tengo 26 años y soy un apasionado de la programación con una mentalidad orientada a la acción. Soy un desarrollador web con especial interés en el **frontend**, aunque también puedo trabajar como **fullstack o backend** si el proyecto lo requiere.
 
 Comencé mi camino con el **Grado Superior de Aplicaciones Multiplataforma (DAM)**, lo que me dio una base sólida en programación. Más adelante estudié el **Grado Superior de Animación 3D** y el **Máster de Desarrollo de Videojuegos**, aunque actualmente mi enfoque principal es el desarrollo web y aplicaciones móviles.
 
